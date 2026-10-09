@@ -1,0 +1,16 @@
+This is the first entry to what I'll refer to as The CHUCK E. CHEESE Tube Archives
+where progress updates on the Decompilation will be documented & recorded:
+I've decided to start over fresh & begin a new, because let's be real, i can do better
+plus, it's been months since the last log on my previous repository, not to mention the fact
+the logs i had on there were mostly about betrayals & losses than actual progress updates on
+the Decompilation itself, so I've decided to just let go of the past & start a new, this time
+focusing on what's actually important: Decompiling the source code & sharing it with you all
+witch right now is easier said than done, not because it's impossible, but because of a
+personal problem, but that's for me to worry about, regardless, i still standby what i said
+before about working alone, i wish to do this project alone, because of past experiences
+& because I'd rather forget about what happened before & start over fresh, this time, now
+that i know what I'm doing & have the tools required to perform such a basic task, i can
+do the Decompilation proper, however, it may take time, but all good things do, so rest
+assured, once i get the source code for Sonic 3 & Knuckles, I'll share it with you all
+& the rest shall be up to you, however, for the time being~
+More Updates Soon...
